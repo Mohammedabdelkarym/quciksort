@@ -1,0 +1,25 @@
+//
+//  main.cpp
+//  quicksort
+//
+//  Created by Mohammed Abdelkarym on 4/4/14.
+//  Copyright (c) 2014 Mohammed Abdelkarym. All rights reserved.
+//
+
+#include <iostream>
+
+int main(int argc, const char * argv[])
+{
+<<<<<<< HEAD
+    std::cout<<"ffFF";
+=======
+
+    // insert code here...
+    std::cout<<"shitttttssss";
+    std::cout<<"shitttttssss2";
+    std::cout<<"shitttttsss3";
+>>>>>>> ceb04e2183dde732f47c11ec00d3cbc96f372e70
+    std::cout << "Hello, World!\n";
+    return 0;
+}
+
