@@ -13,6 +13,8 @@ int main(int argc, const char * argv[])
 
     // insert code here...
     std::cout<<"shitttttssss";
+    std::cout<<"shitttttssss2";
+    std::cout<<"shitttttsss3";
     std::cout << "Hello, World!\n";
     return 0;
 }
